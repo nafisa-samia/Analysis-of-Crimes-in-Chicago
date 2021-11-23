@@ -1,4 +1,4 @@
-# Crimes-in-Chicago
+# Analysis-of-Crimes-in-Chicago
 
 **Problem Statement:** Data Analysis on an extensive dataset of crimes in Chicago (2005-2016) using Dask
 
