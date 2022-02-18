@@ -12,7 +12,7 @@
 - The most common crime location is Chicago streets.
 - We see the highest crimes reported in 2005.
 - Austin is the highest crime community area in Chicago as per our analysis.
-- Very few crime reports (~27.80%) end up in an arrest. But we found that in Narcotics related crimes, the arrest rate is very high almost 100%.
+- Very few crime reports (approximately 27.80%) end up in an arrest. But we found that in Narcotics related crimes, the arrest rate is very high almost 100%.
 - Even if Theft is the most common crime in Chicago but Arrest rate is quite low comparatively.
 - We can easily infer from the above graph that Fridays the criminal activities are at their highest. So, accordingly Police department can have more patrolling and preventive measures on Fridays to have a check on them.
 - We can see clearly in the graph that the peak of the crimes is during summer(July) across all these years.
